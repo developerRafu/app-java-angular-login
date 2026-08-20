@@ -9,7 +9,7 @@ Desenvolver uma aplicação web completa com autenticação de usuários utiliza
 - **Backend**: Java 17+, Spring Boot, Spring Security, JWT, JPA/Hibernate, PostgreSQL
 - **Frontend**: Angular 15+, TypeScript, Bootstrap/Tailwind para estilização
 - **Infraestrutura**: Docker, Docker Compose
-- **Testes**: JUnit 5, Mockito (backend), Jasmine/Karma (frontend)
+- **Testes**: JUnit 5, Mockito (backend)
 
 ---
 
