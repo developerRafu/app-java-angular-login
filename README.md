@@ -338,5 +338,6 @@ API_URL (URL do backend)
 
 ---
 
-**Data de Entrega:** N/A
+**Data de Entrega:** 1 semana
 **Responsável:** Anderson
+**Commitar as changes via gitflow**
